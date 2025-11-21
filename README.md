@@ -1,5 +1,4 @@
 # Hii! , Nihali jain 
-<img align="right alt="coding" width=400 src="https://img.freepik.com/premium-vector/girl-with-laptop-vector-illustration-cartoon-style-white-background_1142-73904.jpg?w=1060
 
 Email me -->✉️ **nihalijain74@gmail.com** For Projects or Anything Else.
 
