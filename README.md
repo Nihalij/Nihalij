@@ -32,9 +32,9 @@
 ```javascript
 const nihali = {
   pronouns: "she" | "her",
-  languages: [Python,C],
+  languages: ["Python","C"],
   libraries: ["NumPy","Pandas","Matplotlib","Seaborn","Tkinter"],
-  database: ["mysql"],
+  database: ["MySQL"],
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
