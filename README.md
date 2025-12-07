@@ -1,31 +1,35 @@
-# Hii! , Nihali jain 
+<h1 align="center">Hi 👋, I'm Nihali Jain</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-Email me -->✉️ **nihalijain74@gmail.com** For Projects or Anything Else.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nihalij&label=Profile%20views&color=0e75b6&style=flat" alt="nihalij" /> </p>
 
-# 💫 About Me:
-🔭 I’m currently working on: Personal Python projects and improving UI/UX in Tkinter  <br>🤝 I’m looking to collaborate on: Python, automation, and beginner open-source projects  <br>🧠 I’m looking for help with: Best programming practices and problem solving  <br>🌱 I’m currently learning: Python, C, Git, GitHub, and application design  <br>💬 Ask me about: Tkinter GUI, Python basics, and beginner coding roadmap  <br>⚡ Fun fact: Once I fix one bug, I somehow unlock five more 😅<br>
+- 🌱 I’m currently learning **C, Git, GitHub, and application design**
 
+- 💬 Ask me about **Tkinter GUI, Python basics, and beginner coding roadmap**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_nihali._) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nihalijain74@gmail.com) 
+- 📫 How to reach me **nihalijain74@gmail.com**
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Nihalij&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Nihalij&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nihalij&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+- ⚡ Fun fact **Once I fix one bug, I somehow unlock five more**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Nihalij&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://kaggle.com/nihalijain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nihalijain" height="30" width="40" /></a>
+<a href="https://instagram.com/_nihali._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nihali._" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/s1262251457_ece" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="s1262251457_ece" height="30" width="40" /></a>
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Nihalij&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nihalij&show_icons=true&locale=en&layout=compact" alt="nihalij" /></p>
 
----
-[![](https://visitcount.itsvg.in/api?id=Nihalij&icon=6&color=0)](https://visitcount.itsvg.in)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nihalij&show_icons=true&locale=en" alt="nihalij" /></p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<img src="https://raw.githubusercontent.com/Nihalij/Nihalij/output/snake.svg" alt="Snake animation" />
+
+###
+  
+  
+ 
