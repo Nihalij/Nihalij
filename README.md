@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nihali Jain</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+<h2> Hi, I'm Nihali Jain! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h3 align="left">A passionate Frontend Developer from India</h3>
 
 <!-- Add your own uploaded image here -->
 <!-- Example: <img align="right" alt="Coding" width="350" src="YOUR_IMAGE_LINK"> -->
@@ -27,30 +27,21 @@
 
 ---
 
-### 🛠️ Languages & Tools  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
-</p>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const nihali = {
+  pronouns: "she" | "her",
+  languages: [Python,C],
+  libraries: ["NumPy","Pandas","Matplotlib","Seaborn","Tkinter"],
+  database: ["mysql"],
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
+
+
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
-
-### 📊 GitHub Stats  
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nihalij&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nihalij&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<br><br>
-
----
-
-### 🐍 Snake Contribution Graph  
-<img src="https://raw.githubusercontent.com/Nihalij/Nihalij/output/snake.svg" alt="Snake animation" />
 
