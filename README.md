@@ -35,7 +35,7 @@ const nihali = {
   languages: ["Python","C"],
   libraries: ["NumPy","Pandas","Matplotlib","Seaborn","Tkinter"],
   database: ["MySQL"],
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "Improving my problem-solving skills"
 }
 ```
 
